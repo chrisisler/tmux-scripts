@@ -1,6 +1,6 @@
 ## tmux-scripts
 
-![Screenshot](assets/scrot.png)
+![Screenshot](screenshots/scrot.png)
 
 The status bar can be positioned at bottom or top as per [Tmux documentation](https://github.com/tmux/tmux/wiki/Getting-Started).
 
