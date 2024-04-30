@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/node": "^20.9.0",
+    "@types/sqlite3": "^3.1.11",
+    "sqlite3": "^5.1.6",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "arrowParens": "avoid"
+  }
+}

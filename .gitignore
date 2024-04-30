@@ -1,0 +1,4 @@
+bash-task-timer/timer-out
+**/node_modules/**
+node_modules
+**/time-cache*
